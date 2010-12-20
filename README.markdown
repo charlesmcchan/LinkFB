@@ -16,7 +16,7 @@ How to use
 Authors
 -------
 	Min-Cheng Chan	(rascov <at> gmail.com)
-	Yi-Chien Lee	(echainmx <at> gmail.com)
+	Yi-Chien Lee	(Ken <at> CSE.tw)
 
 License
 -------
