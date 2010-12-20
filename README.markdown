@@ -8,8 +8,10 @@ Features
 
 How to use
 ----------
-	1. Mouse-over your target article, the "Link" button will show up just next to the "Like" and "Comment" button
-	2. Do whatever you want to that button (open, copy, add to bookmark...etc.)
+	1. Download .crx to wherever you want
+	2. Drag the .crx into your Chrome browser and install it
+	3. Mouse-over your target article, the "Link" button will show up just next to the "Like" and "Comment" button
+	4. Do whatever you want to that button (open, copy, add to bookmark...etc.)
 
 Authors
 -------
