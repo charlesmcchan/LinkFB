@@ -3,7 +3,7 @@
 	"version": "1.1.0",
 	"description": "Show the URL of a Facebook article",
 	"icons": {
-    	"128": "fblink.png"
+    	"128": "linkfb128.png"
     },
   	"content_scripts": [{
 		"matches": [
@@ -11,8 +11,5 @@
         	"https://www.facebook.com/*"
       	],
       	"js": ["jquery-1.4.4.min.js", "LinkFB.js"]
-    }],
-    "permissions": [
-        "tabs", "bookmarks"
-    ]
+    }]
 }
